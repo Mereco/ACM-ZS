@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ACM1000.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1001.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1002.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1003.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1004.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1005.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1006.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1007.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1008.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1009.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1010.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1011.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1012.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1013.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1014.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1015.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1016.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1017.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1018.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1019.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1020.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1021.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1022.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1023.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1024.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1025.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1026.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1027.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1028.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1029.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1030.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1031.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1032.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1033.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1034.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1035.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1037.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1038.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1041.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1090.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1092.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1093.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1094.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1095.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1096.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1097.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1098.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1099.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1103.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1174.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1177.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1284.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ACM1286.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
